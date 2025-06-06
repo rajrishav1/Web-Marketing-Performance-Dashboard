@@ -1,8 +1,6 @@
 ## 📊 Web Marketing Dashboard – Business Overview
 
-(https://public.tableau.com/app/profile/raj.rishav/viz/WebMarketingOverview_17490830881730/Overview)
-  <br>
-  <i>Dashboard preview showing user engagement metrics, page load times, and traffic sources across devices.</i>
+![Image](https://github.com/user-attachments/assets/f128ff1b-bc6b-432b-aa04-268f13a4c62e)
 </p>
 
 ### 📌 Description:
