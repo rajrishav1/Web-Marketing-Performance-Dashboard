@@ -9,5 +9,5 @@ This Tableau dashboard provides a comprehensive view of web marketing performanc
 
 The dashboard helps identify which devices and referral sources drive the most engaged traffic, allowing marketers to fine-tune targeting strategies and optimize load performance.
 
-![Web Marketing Dashboard]("D:\ASU Drive\OneDrive - Arizona State University\Desktop\Dashboard - Business Overview.jpg")
+![Web Marketing Dashboard]("Business_overview_dashboard.jpg")
 
