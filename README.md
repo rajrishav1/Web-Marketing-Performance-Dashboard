@@ -1,13 +1,34 @@
 ## 📊 Web Marketing Dashboard – Business Overview
 
-This Tableau dashboard provides a comprehensive view of web marketing performance across different channels and device types. Key performance indicators include:
+(https://public.tableau.com/app/profile/raj.rishav/viz/WebMarketingOverview_17490830881730/Overview)
+  <br>
+  <i>Dashboard preview showing user engagement metrics, page load times, and traffic sources across devices.</i>
+</p>
 
-- **Bounce Rate**, **Exit Rate**, and **Page Load Time**
-- **Pageviews**, **Sessions**, and **Avg Time on Page**
-- Time trends by device category (desktop, tablet, mobile)
-- Source-level breakdown of average time spent on the page
+### 📌 Description:
+This marketing performance dashboard tracks real-time web analytics data to help stakeholders understand:
 
-The dashboard helps identify which devices and referral sources drive the most engaged traffic, allowing marketers to fine-tune targeting strategies and optimize load performance.
+#### 📉 Key KPIs:
+- **Bounce Rate**, **Exit Rate**, **Avg Page Load Time**, **Avg Sessions**, **Avg Time on Page**
 
-![Web Marketing Dashboard]("Business_overview_dashboard.jpg")
+#### 📊 Time & Device Analysis:
+- Compares **Avg Time on Page** across device categories (Desktop, Tablet, Mobile)
+- Quarterly trend analysis from **Q2 2017 to Q3 2019**
+
+#### 🌐 Traffic Source Breakdown:
+- Highlights **top referral sources** and their average time spent
+- Enables marketers to identify high-engagement sources for optimization
+
+---
+
+### 📦 Tools Used:
+- **Tableau**
+- **Web Analytics Dataset**
+- **Data Cleaning (Excel)**
+- **Time Series Breakdown**
+- **User Behavior Analysis**
+
+📅 **Timeline**: Jan 2025  
+📍 **Focus**: Digital Performance Insights | Marketing Analytics
+
 
