@@ -2,8 +2,6 @@
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/f128ff1b-bc6b-432b-aa04-268f13a4c62e)
 </p>
-![Image](https://github.com/user-attachments/assets/f128ff1b-bc6b-432b-aa04-268f13a4c62e)
-</p>
 
 ### 📌 Description:
 This marketing performance dashboard tracks real-time web analytics data to help stakeholders understand:
