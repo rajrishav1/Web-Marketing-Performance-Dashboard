@@ -1,6 +1,8 @@
 ## 📊 Web Marketing Dashboard – Business Overview
 
-![Dashboard Preview]![Image](https://github.com/user-attachments/assets/f128ff1b-bc6b-432b-aa04-268f13a4c62e)
+![Dashboard Preview](https://github.com/user-attachments/assets/f128ff1b-bc6b-432b-aa04-268f13a4c62e)
+</p>
+![Image](https://github.com/user-attachments/assets/f128ff1b-bc6b-432b-aa04-268f13a4c62e)
 </p>
 
 ### 📌 Description:
