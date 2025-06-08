@@ -1,7 +1,7 @@
 ## 📊 Web Marketing Dashboard – Business Overview
 
-![Dashboard Preview](https://github.com/user-attachments/assets/f128ff1b-bc6b-432b-aa04-268f13a4c62e)
-</p>
+![Dashboard Preview](https://github.com/user-attachments/assets/3bea66e5-f402-4f6a-883c-584adf253903)
+
 
 ### 📌 Description:
 This marketing performance dashboard tracks real-time web analytics data to help stakeholders understand:
