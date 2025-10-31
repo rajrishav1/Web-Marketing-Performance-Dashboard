@@ -1,4 +1,4 @@
-## 📊 Web Marketing Dashboard – Business Overview
+## 📊 Business Overview
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/3bea66e5-f402-4f6a-883c-584adf253903)
 
