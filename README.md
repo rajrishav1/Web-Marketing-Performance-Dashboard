@@ -5,6 +5,10 @@
   <img src="dashboard.png" alt="Web Marketing Dashboard" width="750"/>
 </p>
 
+git add README.md
+git commit -m "Add dashboard preview image to top of README"
+git push
+
 
 
 ### 📌 Description:
