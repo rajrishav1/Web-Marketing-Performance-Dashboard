@@ -1,15 +1,6 @@
 ## 📊 Business Overview
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/3bea66e5-f402-4f6a-883c-584adf253903)
-<p align="center">
-  <img src="dashboard.png" alt="Web Marketing Dashboard" width="750"/>
-</p>
-
-git add README.md
-git commit -m "Add dashboard preview image to top of README"
-git push
-
-
 
 ### 📌 Description:
 This marketing performance dashboard tracks real-time web analytics data to help stakeholders understand:
