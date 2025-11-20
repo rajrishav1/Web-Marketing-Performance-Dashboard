@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Business_overview_dashboard.jpg" alt="Web Marketing Dashboard" width="800">
+</p>
+
 ## 📊 Business Overview
 
 <p align="center">
