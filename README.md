@@ -2,13 +2,6 @@
   <img src="Business_overview_dashboard.jpg" alt="Web Marketing Dashboard" width="800">
 </p>
 
-## 📊 Business Overview
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3bea66e5-f402-4f6a-883c-584adf253903" alt="Web Marketing Dashboard" width="750">
-</p>
-
-
 ### Dashboard Link https://public.tableau.com/app/profile/raj.rishav/viz/WebMarketingOverview_17490830881730/Overview
 
 ### 📌 Description:
