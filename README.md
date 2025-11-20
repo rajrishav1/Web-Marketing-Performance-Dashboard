@@ -31,3 +31,4 @@ This marketing performance dashboard tracks real-time web analytics data to help
 📍 **Focus**: Digital Performance Insights | Marketing Analytics
 
 
+<img src="images/Business_overview_dashboard.jpg" …>
