@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="Business_overview_dashboard.jpg" alt="Web Marketing Dashboard" width="800">
+  <img src="https://raw.githubusercontent.com/rajrishav1/Web-Marketing-Performance-Dashboard/main/Business_overview_dashboard.jpg" alt="Web Marketing Performance Dashboard Preview" width="800">
 </p>
+
 
 ### Dashboard Link https://public.tableau.com/app/profile/raj.rishav/viz/WebMarketingOverview_17490830881730/Overview
 
