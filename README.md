@@ -1,7 +1,21 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajrishav1/Web-Marketing-Performance-Dashboard/main/Business_overview_dashboard.jpg" alt="Web Marketing Performance Dashboard Preview" width="800">
-</p>
+<div align="center">
 
+  <h2>Web Marketing Performance Dashboard</h2>
+
+  <img 
+    src="https://raw.githubusercontent.com/rajrishav1/Web-Marketing-Performance-Dashboard/main/Business_overview_dashboard.jpg" 
+    alt="Web Marketing Performance Dashboard" 
+    width="800"
+  />
+
+  <p>
+    <em>
+      Built an interactive web marketing dashboard to analyze 100K+ sessions, track channel performance,
+      and uncover insights on traffic, conversions, and campaign ROI.
+    </em>
+  </p>
+
+</div>
 
 ### Dashboard Link https://public.tableau.com/app/profile/raj.rishav/viz/WebMarketingOverview_17490830881730/Overview
 
