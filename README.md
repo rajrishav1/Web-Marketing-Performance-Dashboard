@@ -1,7 +1,5 @@
 <div align="center">
 
-  <h2>Web Marketing Performance Dashboard</h2>
-
   <img 
     src="https://raw.githubusercontent.com/rajrishav1/Web-Marketing-Performance-Dashboard/main/Business_overview_dashboard.jpg" 
     alt="Web Marketing Performance Dashboard" 
@@ -19,31 +17,31 @@
 
 ### Dashboard Link https://public.tableau.com/app/profile/raj.rishav/viz/WebMarketingOverview_17490830881730/Overview
 
-### 📌 Description:
+### Description:
 This marketing performance dashboard tracks real-time web analytics data to help stakeholders understand:
 
-#### 📉 Key KPIs:
+#### Key KPIs:
 - **Bounce Rate**, **Exit Rate**, **Avg Page Load Time**, **Avg Sessions**, **Avg Time on Page**
 
-#### 📊 Time & Device Analysis:
+#### Time & Device Analysis:
 - Compares **Avg Time on Page** across device categories (Desktop, Tablet, Mobile)
 - Quarterly trend analysis from **Q2 2017 to Q3 2019**
 
-#### 🌐 Traffic Source Breakdown:
+#### Traffic Source Breakdown:
 - Highlights **top referral sources** and their average time spent
 - Enables marketers to identify high-engagement sources for optimization
 
 ---
 
-### 📦 Tools Used:
+### Tools Used:
 - **Tableau**
 - **Web Analytics Dataset**
 - **Data Cleaning (Excel)**
 - **Time Series Breakdown**
 - **User Behavior Analysis**
 
-📅 **Timeline**: Jan 2025  
-📍 **Focus**: Digital Performance Insights | Marketing Analytics
+ **Timeline**: Jan 2025  
+ **Focus**: Digital Performance Insights | Marketing Analytics
 
 
 <img src="images/Business_overview_dashboard.jpg" …>
